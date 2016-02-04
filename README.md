@@ -38,7 +38,7 @@ willyaranda@pijusmagnificus.com
 
 
 
-##PGP Fingerprint
+## PGP Public Key
 
 
 ## Website
